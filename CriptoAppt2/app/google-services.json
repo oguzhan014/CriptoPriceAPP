@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "79280680928",
+    "project_id": "fir-criptoo",
+    "storage_bucket": "fir-criptoo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79280680928:android:38fd21ed91eb8ed0c88585",
+        "android_client_info": {
+          "package_name": "com.oguzhann.criptoappt2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLRfPE_pONkXmKupFJSZXlZ85XbUZJ1Ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
